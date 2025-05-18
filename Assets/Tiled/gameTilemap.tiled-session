@@ -5,9 +5,9 @@
     },
     "activeFile": "TilemapGame/Tiled/TinyDungeon_Tilesheet.tsx",
     "expandedProjectPaths": [
-        "TilemapGame",
+        "TilemapGame/Tiled",
         ".",
-        "TilemapGame/Tiled"
+        "TilemapGame"
     ],
     "file.lastUsedOpenFilter": "All Files (*)",
     "fileStates": {
@@ -23,8 +23,8 @@
             "scale": 4,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 568.375,
-                "y": 125.25
+                "x": 256.125,
+                "y": -0.25
             }
         },
         "TilemapGame/Tiled/TinyDungeon_Tilesheet.tsx": {
